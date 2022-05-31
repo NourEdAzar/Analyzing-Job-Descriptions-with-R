@@ -1,4 +1,3 @@
-
 ====================================================================================================================
 Social Media Analytics - Group Project 
 
@@ -29,7 +28,3 @@ Group Assignment - Team 13	# Main folder of the project
 +-- shinyapp 			# Files required for shiny deployment
 |
 +-- src				# Source code
-
-
-
-
